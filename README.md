@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Thanish Hafee 👋
 
-<!--
-**ThanishHafee/ThanishHafee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 IT Undergraduate at Open University of Sri Lanka  
+💻 Interested in Software QA | DevOps | Data Science  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🔹 Passionate about software quality, automation, and data analysis  
+- 🔹 Interested in CI/CD, cloud technologies, and system reliability  
+- 🔹 Strong foundation in programming and problem-solving  
+
+---
+
+## 🛠️ Skills
+- Programming: JavaScript, PHP, C++, Prolog  
+- Web: HTML, CSS, Bootstrap, jQuery  
+- Tools: GitHub, Docker, Node.js, XAMPP  
+- Databases: MySQL  
+- Other: OOP, ERP Systems  
+
+---
+
+## 📂 Projects
+- 🔹 Flood Alert Message System  
+- 🔹 Personal Portfolio Website  
+
+(More projects coming soon...)
+
+---
+
+## 📫 Contact Me
+- Email: thanishirish@gmail.com  
+- GitHub: https://github.com/ThanishHafee  
